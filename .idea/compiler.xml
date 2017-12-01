@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-config-client-git" />
+        <module name="spring-cloud-config-server-git" />
+        <module name="spring-cloud-eureka-client" />
+        <module name="spring-cloud-eureka-client (1)" />
+        <module name="spring-cloud-eureka-consumer" />
+        <module name="spring-cloud-eureka-consumer (1)" />
+        <module name="spring-cloud-eureka-consumer-feign" />
+        <module name="spring-cloud-eureka-consumer-ribbon" />
+        <module name="spring-cloud-eureka-server" />
+        <module name="spring-cloud-eureka-service" />
+        <module name="spring-cloud-hystrix-dashboard" />
+        <module name="spring-cloud-zuul-gateway" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-eureka-consumer-ribbon-hystrix" enabled="true">
+        <sourceOutputDir name="../spring-cloud-eureka-consumer-ribbon/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-eureka-consumer-ribbon/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-eureka-consumer-ribbon-hystrix" />
+      </profile>
+      <profile name="Annotation profile for spring-cloud-demo" enabled="true">
+        <sourceOutputDir name="../spring-cloud-eureka-client/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-cloud-eureka-client/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-eureka-client2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-config-client-git" target="1.8" />
+      <module name="spring-cloud-config-server-git" target="1.5" />
+      <module name="spring-cloud-demo" target="1.6" />
+      <module name="spring-cloud-eureka-client" target="1.5" />
+      <module name="spring-cloud-eureka-client (1)" target="1.8" />
+      <module name="spring-cloud-eureka-client2" target="1.8" />
+      <module name="spring-cloud-eureka-consumer" target="1.5" />
+      <module name="spring-cloud-eureka-consumer (1)" target="1.8" />
+      <module name="spring-cloud-eureka-consumer-feign" target="1.8" />
+      <module name="spring-cloud-eureka-consumer-ribbon" target="1.5" />
+      <module name="spring-cloud-eureka-consumer-ribbon-hystrix" target="1.8" />
+      <module name="spring-cloud-eureka-server" target="1.8" />
+      <module name="spring-cloud-eureka-service" target="1.8" />
+      <module name="spring-cloud-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-zuul-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

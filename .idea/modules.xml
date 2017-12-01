@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client-git/spring-cloud-config-client-git.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client-git/spring-cloud-config-client-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server-git/spring-cloud-config-server-git.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server-git/spring-cloud-config-server-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client/spring-cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-client2/spring-cloud-eureka-client2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-client2/spring-cloud-eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer/spring-cloud-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer-feign/spring-cloud-eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer-feign/spring-cloud-eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer-ribbon/spring-cloud-eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer-ribbon/spring-cloud-eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer-ribbon-hystrix/spring-cloud-eureka-consumer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer-ribbon-hystrix/spring-cloud-eureka-consumer-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/spring-cloud-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul-gateway/spring-cloud-zuul-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul-gateway/spring-cloud-zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>
